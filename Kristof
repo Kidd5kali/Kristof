@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Híres emberek, híres autók</title>
+        <meta charset="utf-8">
+        <meta keywords="autók, cars,">
+        <style>
+            .chapterright {
+                float: right;
+                margin: 20px 20px 20px 20px;
+            }
+            
+            .chapterleft {
+                
+                float: left;
+                margin: 20px 20px 20px 20px;
+                
+            }
+            
+            body
+            {
+                background: silver;
+                color: #8F4E1B;
+                font-family: cursive;
+            }
+            
+            h1
+            {
+             color: #8F4E1B;
+             text-align: center;
+            }
+            
+            ul
+            {
+                margin: 60px 20px 60px 0px
+            }
+            
+            h2
+            {
+                color: #8F4E1B;
+                text-align: center;
+            }
+            
+            #bead
+            {
+                margin: 0px 40px 0px 40px
+            }
+            
+            p
+            {
+                text-align: justify;
+            }
+            
+            a:link
+            {
+                color: #8F4E1B;
+            }
+            
+            #alsosor
+            {
+                font-size: 20px;
+                font-style: italic;
+            }
+            
+            
+        </style>
+        
+        
+    </head>
+    
+    <body>
+    
+        <h1>Hírességek híres autói</h1>
+        
+        <ul>
+            <a href="#chapterChurchill"><li>Winston Churchill - Cadillac De Luxe Landaulette</li></a>
+            <a href="#chapterHitler"><li>Adolf Hitler és a Mercedes 770k</li></a>
+            <a href="#chapterJamesDean"><li>James Dean és a Porsche 550 Spyder</li></a>
+            <a href="#chapterBradPitt"><li>Brad Pitt és a Mercedes G500</li>
+            <a href="#chapterCronaldo"><li>Cristiano Ronaldo és a Lamorghini Aventador</li>
+            
+        </ul>
+        
+        
+             
+        <a href="https://classiccars.com/listings/view/903756/1930-cadillac-v-16-landaulette-de-luxe-for-sale-in-bremerton-washington-98312" class="chapterright" target="_blank"><img src="https://ccpublic.blob.core.windows.net/cc-temp/listing/90/3756/2886964-1930-cadillac-v-16-landaulette-de-luxe-std.jpg" alt="Cadillac De Luxe Landaulette" width="400" height="300"></a><h2 id="chapterChurchill">Cadillac De Luxe Landaulette</h2><p>Winston Churchill szerette nagy kanállal enni az életet. Köztudomású, hogy szenvedélyes szivaros volt, azonban az autók iránti rajongása kevésbé ismert. A Cadillac az egyik legnépszerűbb autómárka volt a két világháború közt. A fejlesztéseket 1926-ban kezdték meg, a Churchill által gyakran használt V-16-os modellt 1931-től kezdték el árusítani. Churchill azonban nem saját maga lett volna, ha egy mezei modellel furikázott volna. Így elsősorban reprezentációs céllal és néha vidéki útjai során használt az exkluzív kialakítású De Luxe Landaulette modellt.</p><br>
+           
+            
+           
+        
+        <a href="https://en.wikipedia.org/wiki/Mercedes-Benz_770" class="chapterleft" target="_blank"><img src="http://www.super-hobby.hu/zdjecia/7/3/0/2427_rd.jpg" alt="hitleres" width="400" height="300"></a><h2 id="chapterHitler">Mercedes 770k</h2><p class="pictures">Az 1935-ös évjáratú Mercedes 770K egy valódi monstrum, a mai típusok mellett inkább már teherjárműnek tűnik, nem személyautónak. A tengelytávja 3,75 méter - egy átlag városi kiskocsi hossza - a nyomtávja pedig 1,5 méter. Egy soros, nyolchengeres, 7655 köbcentis kompresszoros motor hajtja az öt tonnás, páncélozott járművet, amely akár 180 km/h-s sebességgel is száguldhatott. A karosszériát 18 mm-es páncéllemezekkel bélelték ki, az ablakok pedig 40 mm vastagok. A 770-es eleve ritkaság, hiszen 1930 és 1943 között csupán 205 példány készült, de a sötétkék Mercedes eredetét természetesen dokumentumok igazolják, így biztosan ez az a jármű, amelyből Hitler integetett számos katonai díszszemlén. Az autó eddig mintegy 33 ezer kilométert futott, nagyrészt persze 1935 és 1945 között – később gyakorlatilag különféle garázsokban vesztegelt.</p><br>
+            
+        <a href="https://en.wikipedia.org/wiki/Porsche_550" class="chapterright" target="_blank"><img src="https://ccpublic.blob.core.windows.net/cc-temp/listing/56/5683/30369-1955-porsche-550-spyder-replica-std.jpg" alt="jamesdeanes" width="400" height="300"></a><h2 id="chapterJamesDean">Porsche 550 Spyder</h2><p>A hivatalosan RS550 néven futó jószághoz 1955-ben 6800 dollárért lehetett hozzájutni. Vágyak tárgya volt a sportos génekkel rendelkező, stílusos és élvezetes modell. Noha a 356-os farmotoros elrendezésű volt, az 550 Spydert már középmotorosra tervezték, ami jobb kanyarstabilitást eredményezett. A vezető és utasa mögé pozicionált, négyhengeres, 1498 köbcentiméter lökettérfogatú léghűtéses bokszermotorból manapság is meggyőző 110 lóerőt préseltek ki a mérnökök, ezt 6200-as percenkénti főtengelyfordulaton képes leadni az erőforrás. Az alumíniumblokkból és alumínium hengerfejből álló, Solex karburátorokkal ellátott, kihegyezett motor teljesítménye önmagában nézve, első látásra csekélynek hat, de ehhez csupán 590 kilogramm száraz tömeg párosul, ami meglehetősen jó tömeg/teljesítmény arányt eredményez.<br>"Gyorsan élni, fiatalon meghalni, szép halottnak lenni" - ez volt James Dean egyik kedvenc mondása, mintha csak megsejtette volna, hogy az ő élete éppen így alakul. Mindössze huszonnégy éves volt, amikor 1955 szeptemberében halálos autóbalesetet szenvedett Kaliforniában. A tragikus eseményekre bőven van racionális magyarázat, hiszen a színész késésben volt egy autóversenyről, ezért padlógázzal hajtotta Porschéjét, ám sokak szerint átok ült az autón, és ez okozta a végzetes balesetet. Nem is teljesen alaptalan ez az elképzelés, hiszen annyi baleset és haláleset fűződik a Little Bastardnak (kis gazfickó) becézett járműhöz, hogy azt nehéz pusztán a véletlennek tulajdonítani.
+</p><br>
+        
+        <a href="https://www.mercedes-benz.com/en/mercedes-benz/vehicles/passenger-cars/g-class/the-g-class-squared/" class="chapterleft" target="_blank"><img src="https://4.bp.blogspot.com/-sXFQI45vWKA/Vr6abDo6l9I/AAAAAAAAVNY/whMRjIyi0ok/s1600/Mercedes.jpg" alt="bradpittes" width="500" height="300"></a><h2 id="chapterBradPitt">Mercedes G500</h2><p class="pictures">Egy újabb frissítésnek köszönhetően a Mercedes-Benz G-osztály megalapozta vezető helyét az igazi terepjárók körében. A belső térre jellemző a nemes anyagokból kialakított színvonalas felszereltség. A műszerfal és a középkonzol teljesen új megjelenésű. Az alapfelszereltséghez tartozik a COMAND Online nevű, modern, navigációval és internet hozzáféréssel is rendelkező infotainmant-rendszer. Az új LED-es nappali fények és a visszapillantó tükrök a luxus-terepjáró külső megjelenését finoman módosítják. A biztonsági arzenált külön megrendelésre kiegészíti a holttér-asszisztens, a PARKTRONIC parkolássegítő, valamint a távolságtartós DISTRONIC PLUS tempomat. A G-osztály motorprogramjához tartozik a G 350 BlueTEC, valamint a G 500, mindkettő hosszú, valamint a G 500 Cabrio rövid tengelytávval.<br>Brad Pitt, mint nagycsaládos apuka rendszeresen mutatkozik ezzel a monstrummal. Feltételezzük, hogy egy szerényebb képességű modellel is eljutna los angelesi házához, de hát ha futja rá miért ne ezzel tenné?
+
+</p><br>
+        
+        <a href="https://www.lamborghini.com/en-en/models/aventador/aventador-coupe" class="chapterright" target="_blank"><img src="http://www.wheelsandmore.de/de/Tuning/Lamborghini-Aventador/Lamborghini/Aventador_Roadster_Tuning.jpg" width="500" height="300" alt="cronaldos"></a><h2 id="chapterCronaldo">Lamborghini Aventador</h2><p class="pictures">A Lamborghini a Countach óta kínálja ugyanezt az elrendezést. Ékforma, középmotoros sportkocsi, elképesztő erejű V12-es hosszmotorral, 300 km/h-t meghaladó végsebességgel. És ez a változatlan recept évtizedek óta működik: évente néhány százan megveszik maguknak az aktuális csúcsmodellt, és évente százmilliók álmodnak róla, hogy egyszer majd nekik is jut egy. Nem csoda, hogy a Lamborghini, illetve új gazdája, az Audi nem akart látványos változtatásokat, viszont a régi lomokat már ideje volt kikukázni.<br>Eddig viszonylag régimódi megoldásokból építkeztek a legerősebb Lamborghinik: a vázat acélcsövekből hegesztették, és a V12-es motorblokkot is csak csiszolgatták évtizedek óta. Nem mintha így nem lett volna elég vevő a legendára – akár a Diablót, akár a Murcielagót nézzük – de a konkurencia időközben messze elhúzott műszaki téren. Jól látszott ez a versenypályákon: a Murcielago eredmények nélkül járta meg az FIA GT sorozatot, ami nagyrész a fél évszázados technika számlájára írható. Az új modell, az Aventador tervezésekor így mindent kicseréltek, amit lehetett, de úgy, hogy a karakter közben mit sem változott.<br>Cristiano Ronaldo gépparkja igazán impozáns. Többek közt Ferrarik, Audik, Mercedesek is megtalálhatók. Nem kell a szomszédba mennie, ha az alkalomhoz illő autót akarja kiválasztani.</p><br>
+                
+                <p id="alsosor">Az autókról bővebb információért kattints a képre.</p>
+        
+                <hr style="margin: 20px">
+                
+                <h1>Egy kis játék</h1>
+            
+                <ol>
+                <li>Milyen hobbija volt Churchillnek az autózáson kívül?</li>
+                <ul style="list-style-type:none">
+                    <li><input type="radio" name="hobbi"><label for="1.1">Sporthorgászat.</label></li>
+                    <li><input id="goodHobbi" type="radio" name="hobbi"><label for="1.2">Szivarozás.</label></li>
+                    <li><input type="radio" name="hobbi"><label for="1.3">Kosárlabdázás.</label></li>
+                </ul>
+                                    <li>Melyik évben szenvedett végzetes autóbalesetet James Dean?</li>
+                <ul style="list-style-type:none">
+                    <li><input type="radio" name="baleset"><label for="2.1">1952</label></li>
+                    <li><input id="goodBaleset" type="radio" name="baleset"><label for="2.2">1955</label></li>
+                    <li><input type="radio" name="baleset"><label for="2.3">1960</label></li>
+                </ul>
+                                    <li>Milyen márkájú autója van még Cristiano Ronaldonak a Lamborghinin kívül?</li>
+                <ul style="list-style-type: none">
+                    <li><input type="radio" name="marka"><label for="3.1">Skoda</label></li>
+                    <li><input type="radio" name="marka"><label for="3.3">Suzuki</label></li>
+                    <li><input id="goodMarka" type="radio" name="marka"><label for="3.2">Audi</label></li>
+
+                </ul>
+                </ol>
+                
+                <label for="bead"><input onclick="valaszelemzes()" id="bead" value="Elküldés" type="button"></label>
+        
+        <script>
+            
+            function valaszelemzes()
+            {
+                var rHobbi=document.getElementById("goodHobbi");
+                var rBaleset=document.getElementById("goodBaleset");
+                var rMarka=document.getElementById("goodMarka");
+                
+                if(rHobbi.checked && rBaleset.checked && rMarka.checked)
+                    
+                {
+                    alert("Mindhárom válasz jó! Gratulálunk!");
+                }
+                
+                else if (rHobbi.checked && rBaleset.checked)
+                {
+                    alert("Hiba a harmadik válaszban!");
+                }
+                
+                else if (rHobbi.checked && rMarka.checked)
+            
+                {
+                    alert("Hiba a második válaszban!");
+                }
+                
+                else if (rBaleset.checked && rMarka.checked)
+                    {
+                        alert("Hiba az első válaszban!");
+                    }
+                else
+                    {
+                        alert("Próbálkozz újra!");
+                    }
+
+                    }
+            
+            
+            
+            
+        </script>
+    </body>
+    
+</html>
